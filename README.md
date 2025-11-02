@@ -4,9 +4,9 @@
 > 
 > 🔭 I am a Computer Science student at [University of the People (UoP)](https://www.uopeople.edu/). I have a passion for technology and graphic design, and my expertise lies in effectively bridging design and technology to create exceptional user experiences. I am confident in my ability to adapt to new challenges and continuously learn in order to excel in a variety of projects.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightyjnr&layout=compact&theme=tokyonight&count_private=true" alt="Ibrahim Language Stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api?username=mightyjnr&show_icons=true&theme=tokyonight&count_private=true" alt="Odusanya Ibrahim Stats" height="160" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightyjnr&layout=compact&theme=tokyonight&count_private=true" alt="Ibrahim Language Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mightyjnr&show_icons=true&theme=tokyonight&count_private=true" alt="Odusanya Ibrahim Stats" height="160" />
 </p>
 
 ## 🌱 Currently Exploring
@@ -16,13 +16,15 @@
 
 ## 📬 Get in Touch
 
-  - Connect with me on [Linkedin](https://www.linkedin.com/in/ibrahim-odusanya)
+  - Connect with me on [Linkedin](https://www.linkedin.com/in/ibrahim-odusanya),
+  - [G-mail](odusanyaibrahim2001@gmail.com),
+  - [Dribbble](https://dribbble.com/Odus_UX),
   - or on [Discord](http://discordapp.com/users/1269485742279888999)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Mightyjnr&theme=dark" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Mightyjnr&theme=tokyonight" />
 </p>
 
 <!--
