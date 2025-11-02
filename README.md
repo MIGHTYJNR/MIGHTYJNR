@@ -1,5 +1,5 @@
 # Hi, I'm ODUSANYA IBRAHIM! 👋
-- 🔭 I'm a tech and graphic design enthusiast. My expertise lies in seamlessly bridging design and technology to create exceptional user experiences. I am confident in my ability to adapt to any challenge and continuously learn to excel in diverse projects.
+- 🔭 A Computer Science student at [University of the People-UoP](https://www.uopeople.edu/), a tech and graphic design enthusiast. My expertise lies in seamlessly bridging design and technology to create exceptional user experiences. I am confident in my ability to adapt to any challenge and continuously learn to excel in diverse projects.
   
 <!--
 I am a CS student at University of the People-UoP, highly skilled and versatile graphic designer with a burning passion for software development. I possess advanced skills in frontend technologies such as HTML, CSS, and JavaScript, as well as backend development using C#. My expertise lies in seamlessly bridging design and technology to create exceptional user experiences. I am confident in my ability to adapt to any challenge and continuously learn to excel in diverse projects.
@@ -12,8 +12,8 @@ I am a CS student at University of the People-UoP, highly skilled and versatile 
 -->
 ## 🌱 Currently Exploring
 
-  - 🚀 Learning Full Stack Web Development
-  - 🎓 World of Web3, all while pursuing my academic goals.
+  - 🚀 World of Product Design with a focus on UI/UX interfaces, Fintech, UI / Visual Design and Web/Mobile experiences.
+  - 🎓 All while pursuing my academic goals.
 
 ## 📬 Get in Touch
 
