@@ -22,7 +22,7 @@
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=SalamBhai&theme=dark" />
+<img src="https://streak-stats.demolab.com?user=Mightyjnr&theme=dark" />
 </p>
 
 <!--
